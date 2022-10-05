@@ -10,6 +10,8 @@
 <h3 align="left">Connect</h3>
 <p align="left">
 <a href="https://linkedin.com/in/priyanka14092" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="priyanka14092" height="30" width="40" /></a>
+
+<a href="priyankabansal582@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="priyankabansal58@gmail.com" height="30" width="40" /></a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanka14092&show_icons=true&locale=en&layout=compact" alt="priyanka14092" /></p>
