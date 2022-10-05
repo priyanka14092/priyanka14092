@@ -13,7 +13,7 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanka14092&show_icons=true&locale=en&layout=compact" alt="priyanka14092" /></p>
-
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=priyanka14092&show_icons=true alt="priyanka14092" /> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka14092&" alt="priyanka14092" /></p>
 
 <!---
