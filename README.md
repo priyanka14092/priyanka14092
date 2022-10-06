@@ -14,13 +14,5 @@
 
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=priyanka14092&show_icons=true alt="priyanka14092" /> </p>
 
-<!---
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanka14092&show_icons=true&locale=en&layout=compact" alt="priyanka14092" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka14092&" alt="priyanka14092" /></p>
---->
-
-<!---
-priyanka14092/priyanka14092 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
