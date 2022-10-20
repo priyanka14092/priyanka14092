@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Priyanka 👋👩‍💻</h1>
 
-#<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanka14092&label=Profile%20views&color=0e75b6&style=flat" alt="priyanka14092" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanka14092&label=Profile%20views&color=0e75b6&style=flat" alt="priyanka14092" /> </p>
 
 - 👀 I’m interested in Python, AWS, Terraform and other cloud fundamentals.
 - 🌱 I’m currently learning AWS DevOps and Azure DevOps.
